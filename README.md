@@ -1,6 +1,6 @@
 # WebDevDaily - Subscribe Popup 
 
-This is a solution to [Workout Hero](https://www.webdevdaily.io/challenges/workout-hero-278) on [Webdevdaily.io](https://www.webdevdaily.io/) website.
+This is a solution to [Subscribe Popup](https://www.webdevdaily.io/challenges/subscribe-popup-284) on [Webdevdaily.io](https://www.webdevdaily.io/) website.
 
 ## Objective
 
