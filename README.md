@@ -23,7 +23,7 @@ Convert this design to code, attempting to get it as close as possible using HTM
 
 ## Demo
 
-- GitHub Pages: [GitHub Pages]()
+- GitHub Pages: [GitHub Pages](https://bccpadge.github.io/subscribe-popup/)
 
 ## Built with  React + Vite
 
